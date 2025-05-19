@@ -1,6 +1,6 @@
 <h1>Easy Shopping - 💻📱</h1>
 
-Esta é uma landing page responsiva, projetada para promover um serviço de compras online por meio de dispositivos móvies e computadores. O design é moderno, com uma interface clara e intuitiva, destacando os benefícios do serviço e incentivando os usuários a iniciarem suas compras.
+Esta é uma landing page responsiva, projetada para promover um serviço de compras online por meio de dispositivos móvies e desktops. O design é moderno, com uma interface clara e intuitiva, destacando os benefícios do serviço e incentivando os usuários a iniciarem suas compras.
 
 ##
 
@@ -24,4 +24,7 @@ Tecnologias Utilizadas
 
   ##
 
-  - Este projeto foi desenvolvido em parceria com a plataforma DevClub
+  - Este projeto foi desenvolvido em parceria com a plataforma <a href="https://aulas.devclub.com.br/m/courses">DevClub</a>
+
+<img src=" https://github.com/LucasTessalli/Easy-shopping/blob/main/assets/desktop.jpeg?raw=true" />
+<img src=" https://github.com/LucasTessalli/Easy-shopping/blob/main/assets/mobile.jpeg?raw=true" />
