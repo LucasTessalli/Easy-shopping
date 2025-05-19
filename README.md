@@ -26,5 +26,5 @@ Tecnologias Utilizadas
 
   - Este projeto foi desenvolvido em parceria com a plataforma <a href="https://aulas.devclub.com.br/m/courses">DevClub</a>
 
-<img src=" https://github.com/LucasTessalli/Easy-shopping/blob/main/assets/desktop.jpeg?raw=true" />
-<img src=" https://github.com/LucasTessalli/Easy-shopping/blob/main/assets/mobile.jpeg?raw=true" />
+<img src="https://github.com/LucasTessalli/Easy-shopping/blob/main/assets/desktop.jpeg?raw=true" />
+<img src="https://github.com/LucasTessalli/Easy-shopping/blob/main/assets/mobile.jpeg?raw=true" />
